@@ -1,0 +1,15 @@
+Odd divisor:
+1. n=log(x)
+if n is perfect integer ,x do not have any odd divisor
+else:
+odd divisor
+2.while x%2==0:
+x//2=0
+3. bit operator
+in bit power of 2 is of the form:
+1
+10
+100
+1000
+etc.
+n & n-1
